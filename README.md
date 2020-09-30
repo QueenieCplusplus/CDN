@@ -27,7 +27,7 @@ Content Delivery Network
 
 1. FTTx, Fiber to the Node 光纖到你家在台灣是光纖到某節點上
 
-台灣發展最大宗由中華電信主推之 FTTx（這是為了其大量使用之 FTTC 避免與 FTTH 混淆），線路最後一哩架構多以 VDSL（VDSL2）為主，其上 DSLAM 架設於道路旁交接箱或是大樓電信室內。主要是對於乙太網路的熟悉及訂單影響，目前的網路速度主流約為 100Mbps/40Mbps 。中華電信在 2010 年開始大量設置 FTTH 設備，並表示 2015 年高速寬頻指標「80%的家庭可接取100Mbps有線寬頻」及「光纖用戶達600萬戶」之政策目標。
+台灣發展最大宗由中華電信主推之 FTTx（這是為了其大量使用之 Fiber to the Cabinet 避免與 FTTH 混淆），線路最後一哩架構多以 VDSL（VDSL2）為主，其上 DSLAM 架設於道路旁交接箱或是大樓電信室內。主要是對於乙太網路的熟悉及訂單影響，目前的網路速度主流約為 100Mbps/40Mbps 。中華電信在 2010 年開始大量設置 FTTH 設備，並表示 2015 年高速寬頻指標「80%的家庭可接取100Mbps有線寬頻」及「光纖用戶達600萬戶」之政策目標。
 
 2. VDSL, Very high speed Digital Subscriber Line
 
