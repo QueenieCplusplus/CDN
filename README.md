@@ -23,7 +23,7 @@ Content Delivery Network
 
 4. 支援對電視頻道進行時間和節目上的錄製。
 
-基礎設備層面：
+基礎設施層面：
 
 1. FTTx, Fiber to the Node 光纖到你家在台灣是光纖到某節點上
 
